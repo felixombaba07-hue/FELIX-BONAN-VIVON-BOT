@@ -1,0 +1,42 @@
+{
+  "254712345678": {
+    "phone": "254712345678",
+    "state": "COMPLETED",
+    "name": "Felix",
+    "location": "Nairobi",
+    "isNairobi": true,
+    "updatedAt": "2026-09-11T19:18:42.470Z"
+  },
+  "254700000000": {
+    "phone": "254700000000",
+    "state": "NAIROBI_TRAINING",
+    "name": "John",
+    "location": "Kenya",
+    "isNairobi": true,
+    "updatedAt": "2026-09-11T18:49:20.228Z"
+  },
+  "254799999999": {
+    "phone": "254799999999",
+    "state": "ONLINE_TRAINING",
+    "name": "Felix",
+    "location": "Kisii",
+    "isNairobi": false,
+    "updatedAt": "2026-09-11T19:08:50.489Z"
+  },
+  "254788888888": {
+    "phone": "254788888888",
+    "state": "COMPLETED",
+    "name": "Sarah",
+    "location": "Nairobi",
+    "isNairobi": true,
+    "updatedAt": "2026-09-11T19:09:05.565Z"
+  },
+  "254777777777": {
+    "phone": "254777777777",
+    "state": "COMPLETED",
+    "name": "Felix",
+    "location": "Nairobi",
+    "isNairobi": true,
+    "updatedAt": "2026-09-11T19:22:14.251Z"
+  }
+}

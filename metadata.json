@@ -1,0 +1,6 @@
+{
+  "name": "Bonan Vivon Bot",
+  "description": "Production-ready WhatsApp chatbot for Bonan Vivon Project built with Node.js, Express, and WhatsApp Cloud API for Render deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
